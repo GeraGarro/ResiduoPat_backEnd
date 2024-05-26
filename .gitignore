@@ -1,0 +1,44 @@
+# IDE or build tool generated files
+target/
+*.iml
+*.class
+*.cache/*
+*.idea/*
+.gradle/*
+build/
+gradle.reports/*
+
+# Logs and temp files
+*.log
+*.tmp
+*.pid
+hsperfdata_*
+
+# Test results and coverage reports
+test/reports/*
+coverage/*
+
+# Documentation and generated files
+docs/*
+build/docs/*
+javadoc/*
+
+# External library jars
+lib/*.jar
+ext-lib/*.jar
+
+# Other common ignores
+*.sql
+*.db
+*.properties
+*.bat
+*.iml
+
+# IntelliJ IDEA specific files
+*.iws
+*.ipr
+*.iia
+
+# Maven specific files
+.mvn/*
+pom.xml.backup
